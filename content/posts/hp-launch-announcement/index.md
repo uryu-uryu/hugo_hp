@@ -2,7 +2,6 @@
 title: "HPを新設いたしました"
 date: 2025-09-13T00:00:00+09:00
 draft: false
-tags: ["お知らせ"]
 categories: ["お知らせ"]
 description: "この度、HPを新設いたしました。制作したアプリケーションやプロジェクトについて紹介していきます。"
 featured: "featured.png"
