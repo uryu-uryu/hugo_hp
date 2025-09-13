@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Studio uni-yo-kan</title>
-    <link>http://localhost:60204/series/</link>
+    <link>http://localhost:59889/series/</link>
     <description>Recent content in Series on Studio uni-yo-kan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 uni-yo-kan</copyright>
-    <atom:link href="http://localhost:60204/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:59889/series/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

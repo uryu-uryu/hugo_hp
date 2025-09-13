@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Studio uni-yo-kan</title>
-    <link>http://localhost:60204/categories/</link>
+    <link>http://localhost:59889/categories/</link>
     <description>Recent content in Categories on Studio uni-yo-kan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 uni-yo-kan</copyright>
-    <lastBuildDate>Sat, 13 Sep 2025 00:00:00 +0900</lastBuildDate><atom:link href="http://localhost:60204/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Sep 2025 00:00:00 +0900</lastBuildDate><atom:link href="http://localhost:59889/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>お知らせ</title>
-      <link>http://localhost:60204/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
+      <link>http://localhost:59889/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
       <pubDate>Sat, 13 Sep 2025 00:00:00 +0900</pubDate>
       
-      <guid>http://localhost:60204/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</guid>
+      <guid>http://localhost:59889/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</guid>
       <description></description>
       
     </item>
