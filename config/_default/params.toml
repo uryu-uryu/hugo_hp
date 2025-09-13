@@ -19,8 +19,8 @@ buymeacoffee = { }
 verification = { }
 rssnext = { }
 advertisement = { }
-defaultBackgroundImage = "AI.png"
-defaultFeaturedImage = "AI.png"
+defaultBackgroundImage = "uni-yo-kan.png"
+defaultFeaturedImage = "uni-yo-kan.png"
 highlightCurrentMenuArea = ""
 
 [header]
@@ -43,7 +43,7 @@ cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
 disableHeroImageFilter = false
-homepageImage = "AI.png"
+homepageImage = "uni-yo-kan.png"
 
 [article]
 showDate = true
