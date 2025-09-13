@@ -1,0 +1,8 @@
+---
+description:
+globs:
+alwaysApply: true
+---
+
+hugo の Blowfish テーマを使用しています。
+ドキュメント: https://blowfish.page/docs/
