@@ -2,30 +2,30 @@
 none = "none"
 
 [[main]]
-name = "x"
-pre = "amazon"
-url = "https://x.com/uni_yo_kan"
-identifier = "DwCVpwVQgZ"
-weight = 9_999
-
-[[main]]
-name = "zenn"
-pre = "apple"
-url = "https://zenn.dev/uni_yo_kan"
-identifier = "Hsb7xKYSfx"
-weight = 9_999
-
-[[main]]
 name = "work"
 pageRef = "work"
 identifier = "LAtnJhmcEi"
-weight = 9_999
+weight = 1
 
 [[main]]
 name = "policy"
 pageRef = "policy"
 identifier = "UGh7W56yuc"
-weight = 9_999
+weight = 2
+
+[[main]]
+name = ""
+pre = "x"
+url = "https://x.com/uni_yo_kan"
+identifier = "DwCVpwVQgZ"
+weight = 3
+
+[[main]]
+name = "zenn"
+pre = "zenn"
+url = "https://zenn.dev/uni_yo_kan"
+identifier = "Hsb7xKYSfx"
+weight = 4
 
 [[footer]]
 none = "none"
