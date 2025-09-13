@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Studio uni-yo-kan</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:60204/</link>
     <description>Recent content on Studio uni-yo-kan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 uni-yo-kan</copyright>
-    <lastBuildDate>Sat, 13 Sep 2025 00:00:00 +0900</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Sep 2025 00:00:00 +0900</lastBuildDate><atom:link href="http://localhost:60204/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>HPを新設いたしました</title>
-      <link>http://localhost:1313/posts/hp-launch-announcement/</link>
+      <link>http://localhost:60204/posts/hp-launch-announcement/</link>
       <pubDate>Sat, 13 Sep 2025 00:00:00 +0900</pubDate>
       
-      <guid>http://localhost:1313/posts/hp-launch-announcement/</guid>
+      <guid>http://localhost:60204/posts/hp-launch-announcement/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hp-launch-announcement/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60204/posts/hp-launch-announcement/featured.png" />
     </item>
     
   </channel>

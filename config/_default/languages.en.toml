@@ -8,7 +8,7 @@ title = "Studio uni-yo-kan"
 displayName = "EN"
 isoCode = "en"
 rtl = false
-dateFormat = "2 January 2006"
+dateFormat = "2006/01/02"
 logo = "uni_yo_kan.png"
 description = "個人開発をしています"
 
