@@ -1,0 +1,31 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "x"
+pre = "amazon"
+url = "https://x.com/uni_yo_kan"
+identifier = "DwCVpwVQgZ"
+weight = 9_999
+
+[[main]]
+name = "zenn"
+pre = "apple"
+url = "https://zenn.dev/uni_yo_kan"
+identifier = "Hsb7xKYSfx"
+weight = 9_999
+
+[[main]]
+name = "work"
+pageRef = "work"
+identifier = "LAtnJhmcEi"
+weight = 9_999
+
+[[main]]
+name = "policy"
+pageRef = "policy"
+identifier = "UGh7W56yuc"
+weight = 9_999
+
+[[footer]]
+none = "none"

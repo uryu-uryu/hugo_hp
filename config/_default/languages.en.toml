@@ -1,0 +1,22 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Studio uni-yo-kan"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "uni_yo_kan.png"
+description = "個人開発をしています"
+
+  [params.author]
+  links = [ ]
+
+["params.author"]
+name = "uni-yo-kan"
+image = "uni_yo_kan.png"
+headline = "個人開発をしています"
+bio = "hoge"
