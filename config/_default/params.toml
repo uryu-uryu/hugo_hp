@@ -19,8 +19,8 @@ buymeacoffee = { }
 verification = { }
 rssnext = { }
 advertisement = { }
-defaultBackgroundImage = "AI.png"
-defaultFeaturedImage = "AI.png"
+defaultBackgroundImage = "uni-yo-kan.png"
+defaultFeaturedImage = "uni-yo-kan.png"
 highlightCurrentMenuArea = ""
 
 [header]
@@ -43,7 +43,7 @@ cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
 disableHeroImageFilter = false
-homepageImage = "AI.png"
+homepageImage = "uni-yo-kan.png"
 
 [article]
 showDate = true
@@ -51,7 +51,7 @@ showViews = false
 showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
-showAuthor = true
+showAuthor = false
 showHero = false
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
@@ -65,7 +65,7 @@ showPagination = true
 invertPagination = false
 showReadingTime = true
 showTableOfContents = false
-showTaxonomies = false
+showTaxonomies = true
 showCategoryOnly = false
 showAuthorsBadges = false
 showWordCount = true
