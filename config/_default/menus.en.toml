@@ -3,7 +3,7 @@ none = "none"
 
 [[main]]
 name = "work"
-pageRef = "work"
+pageRef = "categories/app"
 identifier = "LAtnJhmcEi"
 weight = 1
 
