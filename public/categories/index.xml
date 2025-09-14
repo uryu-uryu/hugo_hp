@@ -10,16 +10,6 @@
     <lastBuildDate>Sat, 13 Sep 2025 00:00:00 +0900</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>App</title>
-      <link>http://localhost:1313/categories/app/</link>
-      <pubDate>Sat, 13 Sep 2025 00:00:00 +0900</pubDate>
-      
-      <guid>http://localhost:1313/categories/app/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>お知らせ</title>
       <link>http://localhost:1313/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
       <pubDate>Sat, 13 Sep 2025 00:00:00 +0900</pubDate>

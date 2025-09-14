@@ -20,16 +20,6 @@
     </item>
     
     <item>
-      <title>ダミー app</title>
-      <link>http://localhost:1313/posts/dummy-apps/</link>
-      <pubDate>Sat, 13 Sep 2025 00:00:00 +0900</pubDate>
-      
-      <guid>http://localhost:1313/posts/dummy-apps/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/dummy-apps/featured.png" />
-    </item>
-    
-    <item>
       <title>Policy</title>
       <link>http://localhost:1313/policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
