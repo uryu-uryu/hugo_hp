@@ -13,10 +13,8 @@ logo = "uni_yo_kan.png"
 description = "個人開発をしています"
 
   [params.author]
+  name = "uni-yo-kan"
+  image = "uni_yo_kan.png"
+  headline = "個人開発をしています"
+  bio = ""
   links = [ ]
-
-["params.author"]
-name = "uni-yo-kan"
-image = "uni_yo_kan.png"
-headline = "個人開発をしています"
-bio = ""
