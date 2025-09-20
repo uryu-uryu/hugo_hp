@@ -25,7 +25,7 @@ logo = "logo_studio_uni_yokan.png"
 highlightCurrentMenuArea = ""
 
 [header]
-layout = "basic"
+layout = "hybrid"
 
 [footer]
 showMenu = true

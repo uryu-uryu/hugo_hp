@@ -1,5 +1,8 @@
 [[main]]
-none = "none"
+name = "home"
+pageRef = "/"
+identifier = "home"
+weight = 0
 
 [[main]]
 name = "work"
