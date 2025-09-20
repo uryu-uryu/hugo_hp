@@ -1,0 +1,13 @@
+/* カスタムCSS - ロゴサイズを大きくする */
+.logo {
+  max-height: 8rem !important; /* 5remから8remに増加 */
+  max-width: 8rem !important;  /* 5remから8remに増加 */
+}
+
+/* モバイルでのロゴサイズ調整 */
+@media (max-width: 768px) {
+  .logo {
+    max-height: 6rem !important;
+    max-width: 6rem !important;
+  }
+}

@@ -21,6 +21,7 @@ rssnext = { }
 advertisement = { }
 defaultBackgroundImage = "uni-yo-kan.png"
 defaultFeaturedImage = "uni-yo-kan.png"
+logo = "logo_studio_uni_yokan.png"
 highlightCurrentMenuArea = ""
 
 [header]
