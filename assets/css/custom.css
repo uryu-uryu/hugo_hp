@@ -1,0 +1,48 @@
+/* カスタムCSS - ロゴサイズを大きくする */
+.logo {
+  max-height: 8rem !important; /* 5remから8remに増加 */
+  max-width: 8rem !important;  /* 5remから8remに増加 */
+}
+
+/* モバイルでのロゴサイズ調整 */
+@media (max-width: 768px) {
+  .logo {
+    max-height: 6rem !important;
+    max-width: 6rem !important;
+  }
+}
+
+/* Main menuに淡い青色の背景を設定 */
+.navbar-nav,
+.main-menu,
+.menu {
+  background-color: #ffffff !important;
+}
+
+/* ナビゲーションバーの背景色 */
+.navbar {
+  background-color: #ffffff !important;
+}
+
+/* メニュー項目の背景色 */
+.nav-item,
+.menu-item {
+  background-color: transparent;
+}
+
+/* ページ全体の背景色を薄いグレーにする */
+body {
+  background-color: #f5f5f5 !important;
+}
+
+/* メインコンテンツ領域の背景色も統一 */
+.main-content,
+.content,
+.page-wrapper {
+  background-color: #f5f5f5 !important;
+}
+
+/* Homeボタンのテキストを非表示にする */
+.main-menu a[href="/"] p {
+  display: none !important;
+}

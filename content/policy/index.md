@@ -1,6 +1,6 @@
 ---
 title: "Policy"
-description: "TODO:作成する"
+date: 2025-09-13T00:00:00+09:00
 ---
 The English version is listed at the bottom of the page.
 

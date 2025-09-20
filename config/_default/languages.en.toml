@@ -9,7 +9,7 @@ displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2006/01/02"
-logo = "uni_yo_kan.png"
+logo = "logo_studio_uni_yokan.png"
 description = "個人開発をしています"
 
   [params.author]
@@ -17,4 +17,7 @@ description = "個人開発をしています"
   image = "uni_yo_kan.png"
   headline = "個人開発をしています"
   bio = ""
-  links = [ ]
+  links = [
+    { x = "https://x.com/uni_yo_kan" },
+    { zenn = "https://zenn.dev/uni_yo_kan" }
+  ]
