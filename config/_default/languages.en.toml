@@ -17,4 +17,7 @@ description = "個人開発をしています"
   image = "uni_yo_kan.png"
   headline = "個人開発をしています"
   bio = ""
-  links = [ ]
+  links = [
+    { x = "https://x.com/uni_yo_kan" },
+    { zenn = "https://zenn.dev/uni_yo_kan" }
+  ]
