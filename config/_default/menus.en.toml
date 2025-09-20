@@ -29,12 +29,5 @@ url = "https://x.com/uni_yo_kan"
 identifier = "DwCVpwVQgZ"
 weight = 9991
 
-[[main]]
-name = "zenn"
-pre = "zenn"
-url = "https://zenn.dev/uni_yo_kan"
-identifier = "Hsb7xKYSfx"
-weight = 9992
-
 [[footer]]
 none = "none"
