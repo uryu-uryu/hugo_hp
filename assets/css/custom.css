@@ -41,3 +41,8 @@ body {
 .page-wrapper {
   background-color: #f5f5f5 !important;
 }
+
+/* Homeボタンのテキストを非表示にする */
+.main-menu a[href="/"] p {
+  display: none !important;
+}
