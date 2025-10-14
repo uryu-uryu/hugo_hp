@@ -46,5 +46,8 @@ Thumbs.db
 *.sublime-project
 *.sublime-workspace
 
+# history
+.history
+
 # Blowfish theme specific (if any customizations)
 # Add any theme-specific ignores here if needed
