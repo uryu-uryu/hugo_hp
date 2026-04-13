@@ -39,13 +39,14 @@ featured: "featured.png"
 ## スペック
 - **ジャンル**: ローグライクゲーム
 - **対応言語**: 日本語・英語
-- **価格**: $1 (無料体験版あり)
+- **価格**: $1~ (無料体験版あり)
 
-## ダウンロード
-Itch.ioにて公開中です！
-ブラウザ上でそのまま遊べます！
+## ダウンロード・販売ページ
+以下のプラットフォームで公開・販売中です！
 
-[Itch.ioで遊ぶ：Rogue Like Slime](https://uni-yo-kan.itch.io/rogue-like-slime)
+- **Itch.io** (ブラウザ版/PC版): [Rogue Like Slime](https://uni-yo-kan.itch.io/rogue-like-slime)
+- **DLsite** (PC版): [Rogue Like Slime](https://www.dlsite.com/ai/work/=/product_id/RJ01599431.html)
+- **BOOTH** (ブラウザ版/PC版): [Rogue Like Slime](https://uni-yo-kan.booth.pm/items/8196229)
 
 ---
 何かご質問などありましたら、[uni.yokan00@gmail.com](mailto:uni.yokan00@gmail.com) までお気軽にご連絡ください！
